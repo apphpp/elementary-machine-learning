@@ -3,24 +3,27 @@
 1. 神经网络语言模型
 Bengio Y, Ducharme R, Vincent P, et al. A neural probabilistic language model[J]. Journal of machine learning research, 2003, 3(Feb): 1137-1155.
 
-2. RNN 语言模型
+2. RNN语言模型
 Mikolov T, Karafiát M, Burget L, et al. Recurrent neural network based language model[C]//Interspeech. 2010, 2: 3.
 
-3. 基于NN的NLP 多任务
+3. 基于NN的NLP多任务
 Collobert R, Weston J, Bottou L, et al. Natural language processing (almost) from scratch[J]. Journal of Machine Learning Research, 2011, 12(Aug): 2493-2537.
 
 4. word2vec论文
 Mikolov T, Chen K, Corrado G, et al. Efficient estimation of word representations in vector space[J]. arXiv preprint arXiv:1301.3781, 2013.
 
-5. NN机器翻译/sequence2sequence 
+5. NN机器翻译/sequence2sequence模型
 Sutskever I, Vinyals O, Le Q V. Sequence to sequence learning with neural networks[C]//Advances in neural information processing systems. 2014: 3104-3112.
 
-6. PLSA 主题模型 
-Steyvers M, Griffiths T. Probabilistic topic models[J]. Handbook of latent semantic analysis, 2007, 427(7): 424-440.
+6. 最大熵词性标注模型
+Ratnaparkhi A. A maximum entropy model for part-of-speech tagging[C]//Proceedings of the conference on empirical methods in natural language processing. 1996, 1: 133-142.
 
-7. 依存分析 
+7. 基于朴素贝叶斯的垃圾邮件过滤
+Androutsopoulos I, Koutsias J, Chandrinos K V, et al. An experimental comparison of naive Bayesian and keyword-based anti-spam filtering with personal e-mail messages[C]//Proceedings of the 23rd annual international ACM SIGIR conference on Research and development in information retrieval. ACM, 2000: 160-167.
+ 
+8. 利用tweet文本做情感分析
+Twitter as a Corpus for Sentiment Analysis and Opinion Mining
 
-8. 情感分析  
 
 【机器学习推荐论文】
 
@@ -29,3 +32,7 @@ Caruana R. Multitask learning[M]//Learning to learn. Springer US, 1998: 95-133.
 
 10. ML中的特征选择
  Guyon I, Elisseeff A. An introduction to variable and feature selection[J]. Journal of machine learning research, 2003, 3(Mar): 1157-1182.  
+
+11. LDA及概率主题模型 
+Steyvers M, Griffiths T. Probabilistic topic models[J]. Handbook of latent semantic analysis, 2007, 427(7): 424-440.
+
