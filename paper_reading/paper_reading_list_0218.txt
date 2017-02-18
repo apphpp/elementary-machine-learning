@@ -1,0 +1,31 @@
+【深度学习/自然语言处理推荐论文】
+
+1. 神经网络语言模型
+Bengio Y, Ducharme R, Vincent P, et al. A neural probabilistic language model[J]. Journal of machine learning research, 2003, 3(Feb): 1137-1155.
+
+2. RNN 语言模型
+Mikolov T, Karafiát M, Burget L, et al. Recurrent neural network based language model[C]//Interspeech. 2010, 2: 3.
+
+3. 基于NN的NLP 多任务
+Collobert R, Weston J, Bottou L, et al. Natural language processing (almost) from scratch[J]. Journal of Machine Learning Research, 2011, 12(Aug): 2493-2537.
+
+4. word2vec论文
+Mikolov T, Chen K, Corrado G, et al. Efficient estimation of word representations in vector space[J]. arXiv preprint arXiv:1301.3781, 2013.
+
+5. NN机器翻译/sequence2sequence 
+Sutskever I, Vinyals O, Le Q V. Sequence to sequence learning with neural networks[C]//Advances in neural information processing systems. 2014: 3104-3112.
+
+6. PLSA 主题模型 
+Steyvers M, Griffiths T. Probabilistic topic models[J]. Handbook of latent semantic analysis, 2007, 427(7): 424-440.
+
+7. 依存分析 
+
+8. 情感分析  
+
+【机器学习推荐论文】
+
+9. 多任务学习实验及原理分析
+Caruana R. Multitask learning[M]//Learning to learn. Springer US, 1998: 95-133.
+
+10. ML中的特征选择
+ Guyon I, Elisseeff A. An introduction to variable and feature selection[J]. Journal of machine learning research, 2003, 3(Mar): 1157-1182.  
